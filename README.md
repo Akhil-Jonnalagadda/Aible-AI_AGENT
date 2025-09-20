@@ -1,5 +1,5 @@
 
-# 📄 Draft: Aible Agent AI – Complete Beginner Guide
+# Aible Agent AI 
 
 ---
 
