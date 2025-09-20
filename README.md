@@ -130,5 +130,13 @@ This is why many companies see Aible as not just an AI tool, but a **business ad
 
 ---
 
-⚡ <img width="1192" height="492" alt="aible_architecture_clean (1)" src="https://github.com/user-attachments/assets/4e3ee48e-f4e6-44ac-a6e7-15229f6564ae" />
+⚡ Detailed Aible Architecture Diagram
+
+<img width="2850" height="1677" alt="aible_architecture_layered" src="https://github.com/user-attachments/assets/369989e6-00d1-43c7-8401-f8719f9122c2" />
+
+
+⚡ Side-by-Side Comparison: Traditional AI vs Aible Agent AI
+
+<img width="3315" height="1446" alt="aible_comparison" src="https://github.com/user-attachments/assets/3aa9c126-e374-42a2-a594-1945787ffdfa" />
+
 
