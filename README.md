@@ -131,3 +131,10 @@ This is why many companies see Aible as not just an AI tool, but a **business ad
 ---
 
 ⚡ 
+# Aible Agent AI – Beginner Guide
+
+## Architecture
+![Aible Architecture](images/aible_architecture_clean.png)
+
+## Agent AI Flow
+![Aible Agent AI Flow](images/aible_agent_flow_clean.png)
