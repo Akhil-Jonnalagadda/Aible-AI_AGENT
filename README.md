@@ -1,8 +1,3 @@
-Perfect 👍 You want a **full-length document (about 3 pages)** that explains Aible in detail, includes **architecture diagrams**, a **flow of Agent AI work**, and **complete beginner-friendly information** so you can publish it on GitHub.
-
-I’ll structure it like a **mini documentation / blog post** so it looks professional in your repo.
-
----
 
 # 📄 Draft: Aible Agent AI – Complete Beginner Guide
 
